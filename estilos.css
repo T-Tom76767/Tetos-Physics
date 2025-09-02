@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url(img/WhatsApp\ Image\ 2025-08-27\ at\ 7.55.08\ PM.jpeg);
+    background-image: url(WhatsApp\ Image\ 2025-08-27\ at\ 7.55.08\ PM.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -127,4 +127,5 @@ footer {
     width: 100%;
     min-width: 400px;
     text-align: center;
+
 }
